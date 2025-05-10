@@ -1,0 +1,14 @@
+{
+    "n_estimators": 736,
+    "max_depth": 3,
+    "learning_rate": 0.014266634402839335,
+    "colsample_bytree": 0.7326456299835774,
+    "subsample": 0.6114773832368773,
+    "reg_lambda": 1.0168305927212278,
+    "reg_alpha": 1.0101358532128872,
+    "gamma": 3.3725020365673264,
+    "min_child_weight": 2,
+    "objective": "binary:logistic",
+    "random_state": 55,
+    "n_jobs": -1
+}
