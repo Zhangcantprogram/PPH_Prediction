@@ -1,6 +1,6 @@
 # Postpartum Hemorrhage Risk Assessment Tool
 
-![App Icon](app.ico)  
+![Client](https://github.com/Zhangcantprogram/PPH_Prediction/blob/main/figure/client_figure.jpg?raw=true)  
 A user-friendly desktop application for assessing postpartum hemorrhage (PPH) risk using machine learning.
 
 ## Key Features ✨
