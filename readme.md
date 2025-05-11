@@ -85,3 +85,4 @@ A user-friendly desktop application for assessing postpartum hemorrhage (PPH) ri
 - Preferably, the column names and order of the dataset are the same as the examples we provided
 - Training requires balanced dataset (recommended PPH cases ≥30%)
 - Log files auto-save in `/training_logs`
+- The recommended screen zoom ratio is **125%**
