@@ -1,7 +1,7 @@
 # Directory Structure 📂
 `client`: Contains the Postpartum Hemorrhage Risk Assessment Tool (.exe file), trained pkl model files, and the corresponding model parameter JSON file.
 
-`dataset`: Contains simulated datasets synthesized from the original dataset (with a data distribution similar to the original dataset). These simulated datasets are implemented using the synthpop package (version v1.9.2) in R. The simulated datasets have an Accuracy of 0.8138 and an AUC of 0.8631, both of which are very close to those of the original dataset.
+`dataset`: Contains simulated datasets synthesized from the original dataset (with a data distribution similar to the original dataset). These simulated datasets are implemented using the synthpop package (v1.9.2) in R. The simulated datasets have an Accuracy of 0.8138 and an AUC of 0.8631, both of which are very close to those of the original dataset.
 
 `figure`: Contains a diagram of the Postpartum Hemorrhage Risk Assessment Tool.
 
