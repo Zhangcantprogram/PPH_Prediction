@@ -20,7 +20,7 @@ def load_data():
     """Load and preprocess dataset"""
     print(BORDER)
     # Load dataset - modify path as needed
-    df = pd.read_excel('../dataset/dataset.xlsx')
+    df = pd.read_excel('../dataset/synthetic_dataset.xlsx')
 
     # Extract features and target
     y = df['label']
